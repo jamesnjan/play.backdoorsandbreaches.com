@@ -60,6 +60,10 @@ function opendeckselector() {
       if (selecteddeck == "Red Canary")
       {
         cardlist = "decks/RedCanary/carddb.json";
+	  }
+      if (selecteddeck == "Humanitarian Cybersecurity")
+      {
+        cardlist = "decks/humbb/carddb.json";
       }
   
           $.getJSON(cardlist, function(h) {
