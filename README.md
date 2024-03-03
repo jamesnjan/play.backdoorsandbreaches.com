@@ -4,10 +4,15 @@
      style="float: left; margin-right: 10px;" />
 
 # B&B-Shuffle
-Dashboard for conducting [Backdoors & Breaches](https://www.blackhillsinfosec.com/projects/backdoorsandbreaches/) sessions over Zoom.
+Modified dashboard for conducting [Backdoors & Breaches](https://www.blackhillsinfosec.com/projects/backdoorsandbreaches/) sessions over Zoom.
 
 Backdoors & Breaches is the property of [Black Hills InfoSec](https://www.blackhillsinfosec.com/). It is a great tool for conducting incident response walkthroughs and training seminars.
 
+# How it's different 
+
+Specifically, this repo contains an amended dashboard with a "Humanitarian" expansion deck. This adds in various cards reflecting scenarios and complexities drawn from experience working with NGOs of various sorts - such as complex operating environments, data export challenges, Donor relationships, and risks of harm to users and constituents which require management in ways that are slightly different from other sectors. 
+ 
+It's a work in progress - please feel free to suggest additional cards or provide constructive feedback. You'll find the cards themselves (along with a handy pptx file -  a simple commoditised way to share artwork) in /play.backdoorsandbreaches.com-Engine-V1/App/decks/humbb. 
 
 # About This Script
 This is a simple HTML page, best viewed at 1920x1080.
