@@ -369,42 +369,42 @@
         },
 		{
 			"name": "Insider Threat",
-			"image": "decks/humbb/humbb-card-1.PNG",
+			"image": "decks/humbb/humbb-card-01.PNG",
 			"type": "initial",
 			"id": "052",
 			"details": "<li><a target=\"_blank\" href=\"URL\"></a></li>"
 		},
 		{
 			"name": "Donated Laptop",
-			"image": "decks/humbb/humbb-card-2.PNG",
+			"image": "decks/humbb/humbb-card-02.PNG",
 			"type": "initial",
 			"id": "053",
 			"details": "<li><a target=\"_blank\" href=\"URL\"></a></li>"
 		},
 		{
 			"name": "Cyber Squatting",
-			"image": "decks/humbb/humbb-card-3.PNG",
+			"image": "decks/humbb/humbb-card-03.PNG",
 			"type": "initial",
 			"id": "054",
 			"details": "<li><a target=\"_blank\" href=\"URL\"></a></li>"
 		},
 		{
 			"name": "Country Office Seized",
-			"image": "decks/humbb/humbb-card-4.PNG",
+			"image": "decks/humbb/humbb-card-04.PNG",
 			"type": "initial",
 			"id": "055",
 			"details": "<li><a target=\"_blank\" href=\"URL\"></a></li>"
 		},
 		{
 			"name": "Member of Staff Arrested",
-			"image": "decks/humbb/humbb-card-5.PNG",
+			"image": "decks/humbb/humbb-card-05.PNG",
 			"type": "initial",
 			"id": "056",
 			"details": "<li><a target=\"_blank\" href=\"URL\"></a></li>"
 		},
 		{
 			"name": "Shared Network Fabric",
-			"image": "decks/humbb/humbb-card-6.PNG",
+			"image": "decks/humbb/humbb-card-06.PNG",
 			"type": "initial",
 			"id": "057",
 			"details": "<li><a target=\"_blank\" href=\"URL\"></a></li>"
@@ -418,14 +418,14 @@
 		},
 		{
 			"name": "WiFi Woes",
-			"image": "decks/humbb/humbb-card-8.PNG",
+			"image": "decks/humbb/humbb-card-08.PNG",
 			"type": "initial",
 			"id": "059",
 			"details": "<li><a target=\"_blank\" href=\"URL\"></a></li>"
 		},
 		{
 			"name": "Unlocked Office",
-			"image": "decks/humbb/humbb-card-9.PNG",
+			"image": "decks/humbb/humbb-card-09.PNG",
 			"type": "initial",
 			"id": "060",
 			"details": "<li><a target=\"_blank\" href=\"URL\"></a></li>"
