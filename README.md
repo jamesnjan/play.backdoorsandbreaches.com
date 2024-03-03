@@ -12,7 +12,9 @@ Backdoors & Breaches is the property of [Black Hills InfoSec](https://www.blackh
 
 Specifically, this repo contains an amended dashboard with a "Humanitarian" expansion deck. This adds in various cards reflecting scenarios and complexities drawn from experience working with NGOs of various sorts - such as complex operating environments, data export challenges, Donor relationships, and risks of harm to users and constituents which require management in ways that are slightly different from other sectors. 
  
-It's a work in progress - please feel free to suggest additional cards or provide constructive feedback. You'll find the cards themselves (along with a handy pptx file -  a simple commoditised way to share artwork) in /play.backdoorsandbreaches.com-Engine-V1/App/decks/humbb. 
+It's a work in progress - please feel free to suggest additional cards or provide constructive feedback. You'll find the cards themselves (along with a handy pptx file -  a simple commoditised way to share artwork and an easy way to leaf through the cards) in /play.backdoorsandbreaches.com-Engine-V1/App/decks/humbb. 
+
+To use this deck today, you'll either need to print the cards yourself - or host this version of play. in your own webserver.
 
 # About This Script
 This is a simple HTML page, best viewed at 1920x1080.
