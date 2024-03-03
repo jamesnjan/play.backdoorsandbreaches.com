@@ -14,7 +14,13 @@ Specifically, this repo contains an amended dashboard with a "Humanitarian" expa
  
 It's a work in progress - please feel free to suggest additional cards or provide constructive feedback. You'll find the cards themselves (along with a handy pptx file -  a simple commoditised way to share artwork and an easy way to leaf through the cards) in /play.backdoorsandbreaches.com-Engine-V1/App/decks/humbb. 
 
-To use this deck today, you'll either need to print the cards yourself - or host this version of play. in your own webserver.
+To use this deck today, you'll either need to print the cards yourself - or host this version of play. in your own webserver. I find the easiest way to do this is to check the whole repository out and startup a local webserver inside the folder you'll end up with. I do this in python like so:
+
+```
+python -m http.server
+```
+
+Then browse to localhost:8000 - job done! If you don't have python installed you will need another solution.
 
 # About This Script
 This is a simple HTML page, best viewed at 1920x1080.
